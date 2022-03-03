@@ -1,0 +1,20 @@
+Lista de Desejos
+	- ver a fonte com os nomes dos veículos na cor azul 
+	- que os nomes dos links sejam mais detalhadas
+	
+	Sprint Backlog
+	
+	- na IDE Visual Studio abrir a pagina html index.html
+	- localizar na pagina o componente <ul> que contem a lista de itens <li>
+	- alterar as linhas de itens <li>, incrementando o elemento "font color" de valor=azul
+	
+	
+	DADO QUE O USUARIO ESTA NA PAGINA INDEX.HTML
+	QUANDO ELE VIALIZAR A PAGINA OS ITENS DA LISTA DEVEM ESTAR NA COR AZUL
+	ENTÃO na IDE Visual Studio abrir a pagina html index.html
+		  localizar na pagina o componente <ul> que contem a lista de itens <li>
+		  alterar as linhas de itens <li>, incrementando o elemento "font color" de valor=azul
+		
+		
+		
+	

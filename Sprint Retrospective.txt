@@ -13,7 +13,7 @@ quando necessaria para conversar
 sobre detalhes das modificações
 solicitadas.
 
-Com isso tivemos uma atrasado na 
+Com isso tivemos um atrasado na 
 entrega da sprint, mas com ajuda 
 do PO, conseguimos a tempo, realizar 
 a entrega do produto, ao fim do

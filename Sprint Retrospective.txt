@@ -11,7 +11,13 @@ com resultado da Sprint anterior.
 O cliente não teve disponilibidade
 quando necessaria para conversar
 sobre detalhes das modificações
-solicitadas.  
+solicitadas.
+
+Com isso tivemos uma atrasado na 
+entrega da sprint, mas com ajuda 
+do PO, conseguimos a tempo, realizar 
+a entrega do produto, ao fim do
+Sprint.
 
 	Sugestão de melhoria ?
 
@@ -26,4 +32,6 @@ o usuario do portal que ele possa
 ter acesso ao detalhes dos conteudo
 de forma reduzida, com uma quantidade
 menor de click´s. 
+
+
 

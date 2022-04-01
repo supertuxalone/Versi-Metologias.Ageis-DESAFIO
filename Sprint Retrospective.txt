@@ -1,14 +1,29 @@
 #######################################################################
 SPRINT RETROSPECTIVE
 
-Um dos fatores essenciais para um bom modelo de Retrospectiva é que ele pareça organizado e todos dentro de sua equipe possam adicionar seus pontos de vista e ideias.
+	Oque deu certo ? 
 
-A equipe está indo bem, oque devemos continuar fazendo no próximo sprint ?
+O cliente ficou satisfeito 
+com resultado da Sprint anterior.
+
+	Errado ?
+
+O cliente não teve disponilibidade
+quando necessaria para conversar
+sobre detalhes das modificações
+solicitadas.  
+
+	Sugestão de melhoria ?
+
+Solicitar equipe de Producto Owner,
+que consigam algum contato direto
+com o representante do cliente,
+afim de agilizar as conversar sobre 
+detalhes sprint futuros.  
 	
-O que você acha que a equipe poderia fazer para melhorar no futuro ? (Concentre-se em áreas de melhoria e coisas que não saíram como esperado em sprints anteriores).
+Para nova Sprint, facilitar para 
+o usuario do portal que ele possa
+ter acesso ao detalhes dos conteudo
+de forma reduzida, com uma quantidade
+menor de click´s. 
 
-Ideias, inovações e coisas novas para experimentar no futuro ?
-	Exemplo: Como cliente da empresa e usuário do portal, eu gostaria de acessar os detalhes dos veículos com
-menos cliques para eu otimizar meu tempo de acesso ao portal.
-
-Perguntas e curiosidades não respondidas !

@@ -1,20 +1,19 @@
 Lista de Desejos
-	- ver a fonte com os nomes dos veículos na cor azul 
-	- que os nomes dos links sejam mais detalhadas
+	ID [1] - ver a fonte com os nomes dos veículos na cor azul 
+		Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes
+dos veículos na cor azul para me proporcionar uma melhor experiência de usuário
+	ID [3] - que os nomes dos links sejam mais detalhadas
+		Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links
+para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha
+navegação no portal.
 	
 	Sprint Backlog
+	- modificar a cor da fonte da pagina index para a azul.
+	- modificar o texto dos links da pagina contato.    
+
 	
-	- na IDE Visual Studio abrir a pagina html index.html
-	- localizar na pagina o componente <ul> que contem a lista de itens <li>
-	- alterar as linhas de itens <li>, incrementando o elemento "font color" de valor=azul
+
 	
-	
-	DADO QUE O USUARIO ESTA NA PAGINA INDEX.HTML
-	QUANDO ELE VIALIZAR A PAGINA OS ITENS DA LISTA DEVEM ESTAR NA COR AZUL
-	ENTÃO na IDE Visual Studio abrir a pagina html index.html
-		  localizar na pagina o componente <ul> que contem a lista de itens <li>
-		  alterar as linhas de itens <li>, incrementando o elemento "font color" de valor=azul
-		
-		
+
 		
 	
